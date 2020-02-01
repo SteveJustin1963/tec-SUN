@@ -1,2 +1,2 @@
-# tec-SUN
+# tec-SUN-TRACK
 TEC-1 Solar Tracking and Logging 
